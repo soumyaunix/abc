@@ -1,0 +1,5 @@
+node{
+    stage('git'){
+      git 'https://github.com/soumyaunix/abc.git' 
+    }
+}
